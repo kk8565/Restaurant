@@ -1,0 +1,1 @@
+This is a simple and responsive restaurant website designed and developed using HTML, CSS, and JavaScript. The website aims to provide users with an interactive and visually appealing experience while showcasing the restaurant's menu, features, and contact information.
